@@ -35,7 +35,7 @@ class SDK
     /**
      * @var bool
      */
-    public static $enabledStringPack = true;
+    public static $enabledStringPack = false;
 
     /**
      * @param LoggerInterface $logger
