@@ -1,5 +1,5 @@
 {
-  "name": "moolex/nsqclient",
+  "name": "annon/nsqclient",
   "keywords": ["nsq"],
   "license": "MIT",
   "require": {
