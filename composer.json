@@ -1,5 +1,6 @@
 {
   "name": "annon/nsqclient",
+  "description": "Yet another NSQ library.",
   "keywords": ["nsq"],
   "license": "MIT",
   "require": {
